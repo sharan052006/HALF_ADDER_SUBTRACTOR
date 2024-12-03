@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![WhatsApp Image 2024-12-02 at 21 21 12_dc2e53b4](https://github.com/user-attachments/assets/c82e198f-135d-4858-b079-08a42dda620d)
 
 **Procedure**
 
@@ -55,7 +56,18 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+half adder:
+![exp-3-d](https://github.com/user-attachments/assets/93364e13-11c8-4957-8ef8-11a9adcc7092)
+
+half subtracter:
+![exp-3 2-d](https://github.com/user-attachments/assets/03404bac-b64f-43ce-8e39-594ed3c8c3dc)
 
 **Output/TIMING Waveform**
+half adder:
+![exp-3-w](https://github.com/user-attachments/assets/960a3d33-d57f-4b81-9fc8-ea2382fdc02b)
+
+half subtracter:
+![exp-3 2-w](https://github.com/user-attachments/assets/25003551-e751-4c0d-8e47-ef72fabfec32)
 
 **Result:**
+THUS THE BASIC LOGIC GATES ARE STUDIED AND THE TRUTH TABLES ARE VERIFIED
